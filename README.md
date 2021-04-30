@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 tvg-id="" tvg-logo="http://s.eyplay.io/logos/canais/copanordeste.png" group-title="Canais @ Pay-Per-View",Copa do Nordeste 7 HD
 http://esrv.cc:80/live/Clouddy05/Rr7uL/33119.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://s.eyplay.io/logos/canais/copanordeste.png" group-title="Canais @ Pay-Per-View",Copa do Nordeste 6 HD
